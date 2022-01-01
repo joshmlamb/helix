@@ -1,0 +1,6 @@
+theme = "everforest_dark"
+
+[editor]
+scrolloff = 8
+line-number = "relative"
+true-color = true

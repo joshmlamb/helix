@@ -1,0 +1,35 @@
+[[language]]
+name = "javascript"
+indent = { tab-width = 4, unit = "    " }
+
+[[language]]
+name = "typescript"
+indent = { tab-width = 4, unit = "    " }
+
+[[language]]
+name = "tsx"
+indent = { tab-width = 4, unit = "    " }
+
+[[language]]
+name = "css"
+indent = { tab-width = 4, unit = "    " }
+
+[[language]]
+name = "html"
+indent = { tab-width = 4, unit = "    " }
+
+[[language]]
+name = "svelte"
+indent = { tab-width = 4, unit = "    " }
+
+[[language]]
+name = "vue"
+indent = { tab-width = 4, unit = "    " }
+
+[[language]]
+name = "markdown"
+indent = { tab-width = 4, unit = "    " }
+
+[[language]]
+name = "dart"
+indent = { tab-width = 4, unit = "    " }
